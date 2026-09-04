@@ -4,6 +4,9 @@ A lightweight, multi-functional command-line interface (CLI) developed in Python
 
 ⚠️ Note: Built strictly for educational purposes, authorization testing, and open-source software research.
 
+Operating System Requirements
+any linux
+
 
 
 Commands
