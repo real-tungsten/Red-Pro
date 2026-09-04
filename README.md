@@ -4,12 +4,12 @@ A lightweight, multi-functional command-line interface (CLI) developed in Python
 
 ⚠️ Note: Built strictly for educational purposes, authorization testing, and open-source software research.
 
-Operating System Requirements
-any linux
+#Operating System Requirements
+*any linux
 
+# How to Install
 
-
-Commands
-
-cd redpro                (go to folder)
-python3 redpro.py        (for run)
+* Install dependencies: `<sudo apt update && sudo apt install git python3 python3-pip curl -y>`
+* Clone the repository: `<git clone https://github.com/real-tungsten/Red-Pro>`
+* Navigate to the directory: `<cd Red-Pro>`
+* Run the tool: `<python3 redpro.py>`
